@@ -1,9 +1,11 @@
 # 💫 Hi 👋, I'm Imran Ismail Attar
 **A passionate Java Full Stack **
 
-Email Me 👉 ✉️ **attarimran782@gmail.com** 😊😊
+I'm a beginner backend developer exploring the world of Spring Boot, microservices, and clean architecture. I love building things from scratch and documenting my journey with style.
 
-- 🌱 **I’m currently learning:** Java Full Stack
+- 🌱 Currently learning: Spring Boot, RabbitMQ, JWT, Docker
+- 🛠️ Projects: ShopEase Backend API,JobVault Backend,YouTube SEO Tag Generato
+- 🎯 Goal: Build a real-time, production-grade async system
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
