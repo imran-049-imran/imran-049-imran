@@ -1,25 +1,6 @@
 # 💫 Hi 👋, I'm Imran Attar
 
-<p align="center">
-  <img src="banner.png" alt="Chetan's Premium Banner"
-       style="width:95%; height:300px; border-radius:20px;
-              box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
-              transition: box-shadow 0.3s ease-in-out;"
-       onmouseover="this.style.boxShadow='0 0 40px rgba(0, 255, 255, 0.8)'"
-       onmouseout="this.style.boxShadow='0 0 20px rgba(0, 255, 255, 0.5)'"/>
-</p>
-
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+Backend+Engineer;Learning+Spring+Boot+Step+by+Step;Building+Microservices+from+Scratch;Docker+%7C+RabbitMQ+%7C+JWT+Exploration;Fresh+but+Focused+on+Growth" alt="Typing SVG" />
-</p>
-
-
 I'm a beginner backend developer exploring the world of Spring Boot, microservices, and clean architecture. I love building things from scratch and documenting my journey with style.
-
-- 🌱 Currently learning: Spring Boot, RabbitMQ, JWT, Docker
-- 🛠️ Projects: ShopEase Backend API,JobVault Backend,YouTube SEO Tag Generato
-- 🎯 Goal: Build a real-time, production-grade async system
 
 ### 🧰 Tech Stack
 
