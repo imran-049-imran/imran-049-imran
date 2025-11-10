@@ -1,11 +1,37 @@
-# 💫 Hi 👋, I'm Imran Ismail Attar
-**A passionate Java Full Stack **
+# 💫 Hi 👋, I'm Imran Attar
+
+<p align="center">
+  <img src="banner.png" alt="Chetan's Premium Banner"
+       style="width:95%; height:300px; border-radius:20px;
+              box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+              transition: box-shadow 0.3s ease-in-out;"
+       onmouseover="this.style.boxShadow='0 0 40px rgba(0, 255, 255, 0.8)'"
+       onmouseout="this.style.boxShadow='0 0 20px rgba(0, 255, 255, 0.5)'"/>
+</p>
+
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+Backend+Engineer;Learning+Spring+Boot+Step+by+Step;Building+Microservices+from+Scratch;Docker+%7C+RabbitMQ+%7C+JWT+Exploration;Fresh+but+Focused+on+Growth" alt="Typing SVG" />
+</p>
+
 
 I'm a beginner backend developer exploring the world of Spring Boot, microservices, and clean architecture. I love building things from scratch and documenting my journey with style.
 
 - 🌱 Currently learning: Spring Boot, RabbitMQ, JWT, Docker
 - 🛠️ Projects: ShopEase Backend API,JobVault Backend,YouTube SEO Tag Generato
 - 🎯 Goal: Build a real-time, production-grade async system
+
+### 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
