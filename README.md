@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Imran Attar
 
-I'm a Java beginner backend developer exploring the world of Spring Boot, microservices, and clean architecture. I love building things from scratch and documenting my journey with style.
+I'm a Java developer exploring the world of Spring Boot, microservices, and clean architecture. I love building things from scratch and documenting my journey with style.
 
 ### 🧰 Tech Stack
 
