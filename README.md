@@ -44,12 +44,12 @@ I enjoy converting real-world problems into robust REST APIs and continuously im
 
 ## 🛠 Featured Projects
 
-🔹 **Complaint Management System (Spring Boot)**  
+🔹 **MealMitra- Food Delivery Web Application**  
 - REST APIs with layered architecture (Controller, Service, Repository)  
 - CRUD operations using Spring Data JPA & MySQL  
 - Validation, exception handling & clean API responses  
 
-🔹 **E-Commerce Backend API**  
+🔹 **ApnaShop E-Commerce Web Application**  
 - Product, User & Order modules  
 - Secure authentication using JWT  
 - Optimized database queries and RESTful design  
@@ -66,22 +66,6 @@ I enjoy converting real-world problems into robust REST APIs and continuously im
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attarimran782@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-049-imran&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imran-049-imran&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-049-imran&layout=compact&theme=dark" />
-</p>
 
 ---
 
