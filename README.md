@@ -23,32 +23,43 @@ I enjoy solving real-world problems by converting them into clean and efficient 
 
 ## 🧰 Tech Stack
 
-**Backend**
-- Java  
-- Spring Boot  
-- Spring Data JPA / Hibernate  
-- REST APIs  
-- Microservices  
-- JWT Security  
+### 🖥 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-**Cloud (AWS)**
-- EC2 (Application deployment)  
-- RDS (MySQL database)  
-- S3 (File storage – basics)  
-- IAM (Users, roles, basic policies)  
+---
 
-**Database**
-- MySQL  
+### ☁️ Cloud (AWS)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Frontend**
-- React  
-- JavaScript  
+---
 
-**DevOps & Tools**
-- Docker  
-- RabbitMQ  
-- Apache Tomcat  
-- Git & GitHub  
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### ⚙ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -64,7 +75,7 @@ I enjoy solving real-world problems by converting them into clean and efficient 
 - Developed **Product, User, and Order** modules
 - Implemented **JWT-based authentication & authorization**
 - Designed RESTful APIs following industry standards
-- Integrated MySQL database (AWS RDS – learning setup)
+- Integrated MySQL database (**AWS RDS – learning setup**)
 
 ### 🔹 Microservices Demo Project
 - Built independent services using **Spring Boot**
