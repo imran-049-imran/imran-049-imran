@@ -1,83 +1,76 @@
-<h1 align="center">Hi 👋, I'm Imran</h1>
-<h3 align="center">🚀 Java & Spring Boot Developer | Backend Engineer | India 🇮🇳</h3>
+# 💫 About Me
 
-<p align="center">
-  <a href="https://portfolio-six-swart-3no4uryqxb.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:attarimran782@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/imran-attar-703637373" target="_blank">💼 LinkedIn</a>
-</p>
+👋 Hi, I’m **Imran**, a **Java Developer** specializing in **Spring Boot, REST APIs & Backend Systems**.
 
----
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imran-049-imran&theme=onedark&margin-w=15&margin-h=15" alt="imran-049-imran" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Java Developer specializing in **Spring Boot, REST APIs & Backend Systems**
-- 🌱 Currently learning **Microservices, Docker, Kubernetes & AWS**
-- 👯 Open to **collaborations on real-world Java / Full-Stack projects**
-- 💬 Ask me about **Java, Spring Boot, SQL, REST APIs, Backend Architecture**
+- 🔭 Building scalable backend applications using Java & Spring Boot  
+- 🌱 Currently learning **Microservices, Docker, Kubernetes & AWS**  
+- 👯 Open to collaborating on **real-world Java / Full-Stack projects**  
+- 💬 Ask me about **Java, Spring Boot, SQL, REST APIs & Backend Architecture**  
 - ⚡ Fun fact: *I think I’m funny… and my code has a great sense of humor 😄*
 
 ---
 
-### 🌐 Portfolio & Resume
+## 🌐 Socials
 
-- 👨‍💻 **All of my projects:**  
-  👉 <a href="https://portfolio-six-swart-3no4uryqxb.vercel.app/" target="_blank">Visit My Portfolio</a>
-
-- 📄 **Resume:**  
-  👉 Upload your resume PDF to **Google Drive / GitHub** and paste the public link here  
-  ❗ *(Local paths like `C:/Users/...` do NOT work for recruiters)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-six-swart-3no4uryqxb.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imran-attar-703637373)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attarimran782@gmail.com)
 
 ---
 
-### 📫 How to Reach Me
+## 💻 Tech Stack
 
-- 📧 Email: **attarimran782@gmail.com**
-- 💼 LinkedIn: <a href="https://linkedin.com/in/imran-attar-703637373" target="_blank">Imran Attar</a>
-- 🔍 Actively looking for **Fresher / Junior Java Developer roles**
+### 🧠 Core Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge)
 
----
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🛠️ Languages & Tools
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-</p>
+### ⚙️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-049-imran&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-049-imran&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-049-imran" />
-</p>
+### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-⭐ *If you like my work, consider giving my repositories a star!*
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=imran-049-imran&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=imran-049-imran&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-049-imran&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=imran-049-imran&theme=radical&no-frame=false&no-bg=true&margin-w=8)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=imran-049-imran&limit=5&theme=dark&combine_all_yearly_contributions=true)
