@@ -62,7 +62,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imran-049-imran&theme=radical&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=imran-049-imran&theme=onedark)
 
 ---
 
