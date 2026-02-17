@@ -1,7 +1,10 @@
 # 💫 About Me
 
-👋 Hi, I’m **Imran**, a **Java Developer** with hands-on experience in building
-**scalable, secure, and maintainable applications** using **Spring Boot & REST APIs**.
+Highly motivated Java Developer with hands-on experience in building scalable and maintainable applications using Java and
+Spring Boot. Proficient in developing RESTful APIs, implementing business logic, and managing MySQL databases with
+Hibernate/JPA. Strong problem-solving and debugging skills with a solid understanding of object-oriented programming and
+clean code principles. Quick learner, passionate about delivering high-performance, secure, and user-friendly applications in a
+collaborative development environment.
 
 [![My Portfolio](https://github.com/user-attachments/assets/93d0d471-ed48-4a64-9c35-20992972cd93)](https://portfolio-six-swart-3no4uryqxb.vercel.app/)
 
