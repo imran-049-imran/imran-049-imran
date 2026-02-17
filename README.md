@@ -3,9 +3,7 @@
 👋 Hi, I’m **Imran**, a **Java Developer** with hands-on experience in building
 **scalable, secure, and maintainable applications** using **Spring Boot & REST APIs**.
 
-<a href="https://portfolio-six-swart-3no4uryqxb.vercel.app/" target="_blank">
-    <img src="your-image.png" alt="My Portfolio" width="300">
-</a>
+[![My Portfolio](https://github.com/user-attachments/assets/93d0d471-ed48-4a64-9c35-20992972cd93)](https://portfolio-six-swart-3no4uryqxb.vercel.app/)
 
 - 🔭 Developing backend systems using **Java, Spring Boot, JPA & SQL**
 - 🌱 Currently learning **Microservices Architecture, Docker, Kubernetes & AWS**
