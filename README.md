@@ -1,10 +1,9 @@
-# 💫 About Me
+## 👨‍💻 About Me
 
-Highly motivated Java Developer with hands-on experience in building scalable and maintainable applications using Java and
-Spring Boot. Proficient in developing RESTful APIs, implementing business logic, and managing MySQL databases with
-Hibernate/JPA. Strong problem-solving and debugging skills with a solid understanding of object-oriented programming and
-clean code principles. Quick learner, passionate about delivering high-performance, secure, and user-friendly applications in a
-collaborative development environment.
+Highly motivated and detail-oriented Java Developer with hands-on experience in building scalable, secure, and high-performance applications using Java and Spring Boot. Skilled in designing and developing RESTful APIs, implementing robust business logic, and managing relational databases like MySQL using Hibernate/JPA.
+
+Strong foundation in Object-Oriented Programming (OOP), Data Structures, and clean code principles. Passionate about problem-solving, debugging complex issues, and continuously learning modern technologies. Committed to writing maintainable, production-ready code and contributing effectively in collaborative team environments.
+
 
 [![My Portfolio](https://github.com/user-attachments/assets/93d0d471-ed48-4a64-9c35-20992972cd93)](https://portfolio-six-swart-3no4uryqxb.vercel.app/)
 
