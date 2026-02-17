@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Imran**, a **Java Backend Developer** with hands-on experience in building
+👋 Hi, I’m **Imran**, a **Java Developer** with hands-on experience in building
 **scalable, secure, and maintainable applications** using **Spring Boot & REST APIs**.
 
  # https://portfolio-six-swart-3no4uryqxb.vercel.app/
