@@ -5,7 +5,6 @@ Results-driven Java Backend Developer with practical experience in developing en
 Strong understanding of OOP principles, exception handling, API design, and performance optimization. Adept at debugging, writing clean and maintainable code, and following industry best practices. Enthusiastic learner with a growth mindset, aiming to contribute to impactful and scalable software solutions.
 
 
-
 [![My Portfolio](https://github.com/user-attachments/assets/93d0d471-ed48-4a64-9c35-20992972cd93)](https://portfolio-six-swart-3no4uryqxb.vercel.app/)
 
 - 🔭 Developing backend systems using **Java, Spring Boot, JPA & SQL**
