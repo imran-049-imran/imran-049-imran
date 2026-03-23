@@ -72,7 +72,7 @@ public class ImranAttar {
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
 <table>
 <tr>
