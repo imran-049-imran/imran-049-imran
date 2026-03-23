@@ -115,7 +115,7 @@ public class ImranAttar extends Developer {
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
 <table width="100%">
 <tr>
